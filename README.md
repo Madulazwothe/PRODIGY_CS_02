@@ -30,3 +30,7 @@ Depending on the result, the password is classified as:
 - Weak
 - Moderate
 - Strong</h2>
+
+<img width="720" height="1412" alt="Screenshot_20260507_111540_Chrome" src="https://github.com/user-attachments/assets/52ba0a31-7e2a-4085-86e1-2f1630acd2d1" />
+<img width="720" height="1369" alt="Screenshot_20260507_111355_Chrome" src="https://github.com/user-attachments/assets/470db78b-7b61-4c7d-a84d-f323abeeb404" />
+
